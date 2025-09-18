@@ -1,0 +1,27 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Time series feature extraction
+pyts
+tsfresh
+statsmodels
+
+# Class imbalance and utilities
+imbalanced-learn
+tqdm
+joblib
+
+# Jupyter + Kernel
+jupyter
+ipykernel
+h5py
+
+# Kaggle API
+kaggle
