@@ -1,0 +1,20 @@
+# Entorno y cachés
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datos y artefactos pesados
+data/*.h5
+data/*.zip
+artifacts/
+reports/figures/
+reports/tables/
+
+# Varios
+*.pkl
+*.pickle
+.DS_Store
+.env
+.vscode/
+.idea/
